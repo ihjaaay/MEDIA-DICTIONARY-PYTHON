@@ -35,9 +35,6 @@ while True:
     
     a = input("Say a media related word (or type 'exit' to quit): ").strip().upper()
     
-    if a == "EXIT":
-        print("Exiting the program. Babush!!")
-        break
     
     print(DATA.get(a, "Word not found"))
     
