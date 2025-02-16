@@ -3,4 +3,4 @@ Built with Python, this media dictionary lets users input terms to get definitio
 
 
 **VIDEO OF THE MEDIA DICTIONARY**
-https://youtu.be/YCSRfFe7_60
+https://youtu.be/Je_oR9VPhyk
